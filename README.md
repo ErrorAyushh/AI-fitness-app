@@ -1,11 +1,12 @@
-🏋️‍♂️ AI Fitness Trainer
+##🏋️‍♂️ AI Fitness Trainer
 Real-time Workout Tracker with Posture Correction and Rep Counting
 
-📌 Overview
+##📌 Overview
 AI Fitness Trainer is a computer vision–powered application that helps users track workouts, count repetitions, and improve form in real time.
 Using OpenCV and MediaPipe Pose Estimation, the system detects exercises such as squats, lunges, push-ups, bicep curls, planks, and jumping jacks, providing instant feedback with a progress bar to guide correct form.
 
-✨ Features
+##✨ Features
+
 🎯 Exercise Detection – Automatically recognizes multiple exercises.
 
 🔢 Repetition Counter – Tracks completed reps in real time.
