@@ -44,16 +44,17 @@ By leveraging **OpenCV** and **MediaPipe Pose Estimation**, it detects body land
    ```bash
    git clone https://github.com/your-username/ai-fitness-trainer.git
    cd ai-fitness-trainer
+   ```
 
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 
 Run the trainer:
 ```bash
 python main.py
-
+```
 
 
 📈 Future Enhancements
