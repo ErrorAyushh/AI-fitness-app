@@ -57,16 +57,16 @@ python main.py
 ```
 
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 
-Add support for more exercises (e.g., pull-ups, sit-ups).
+- Add support for more exercises (e.g., pull-ups, sit-ups).
 
-Voice feedback for posture correction.
+- Voice feedback for posture correction.
 
-Mobile app integration for fitness tracking.
+- Mobile app integration for fitness tracking.
 
-Personalized workout plans using AI.
+- Personalized workout plans using AI.
 
-🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
