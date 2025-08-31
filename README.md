@@ -44,3 +44,28 @@ By leveraging **OpenCV** and **MediaPipe Pose Estimation**, it detects body land
    ```bash
    git clone https://github.com/your-username/ai-fitness-trainer.git
    cd ai-fitness-trainer
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
+
+Run the trainer:
+```bash
+python main.py
+
+
+
+📈 Future Enhancements
+
+Add support for more exercises (e.g., pull-ups, sit-ups).
+
+Voice feedback for posture correction.
+
+Mobile app integration for fitness tracking.
+
+Personalized workout plans using AI.
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
